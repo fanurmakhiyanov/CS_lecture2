@@ -1,0 +1,15 @@
+D:\GB\Lecture2\Example010_IntroArray\bin\Debug\net6.0\Example010_IntroArray.exe
+D:\GB\Lecture2\Example010_IntroArray\bin\Debug\net6.0\Example010_IntroArray.deps.json
+D:\GB\Lecture2\Example010_IntroArray\bin\Debug\net6.0\Example010_IntroArray.runtimeconfig.json
+D:\GB\Lecture2\Example010_IntroArray\bin\Debug\net6.0\Example010_IntroArray.dll
+D:\GB\Lecture2\Example010_IntroArray\bin\Debug\net6.0\Example010_IntroArray.pdb
+D:\GB\Lecture2\Example010_IntroArray\obj\Debug\net6.0\Example010_IntroArray.csproj.AssemblyReference.cache
+D:\GB\Lecture2\Example010_IntroArray\obj\Debug\net6.0\Example010_IntroArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\Lecture2\Example010_IntroArray\obj\Debug\net6.0\Example010_IntroArray.AssemblyInfoInputs.cache
+D:\GB\Lecture2\Example010_IntroArray\obj\Debug\net6.0\Example010_IntroArray.AssemblyInfo.cs
+D:\GB\Lecture2\Example010_IntroArray\obj\Debug\net6.0\Example010_IntroArray.csproj.CoreCompileInputs.cache
+D:\GB\Lecture2\Example010_IntroArray\obj\Debug\net6.0\Example010_IntroArray.dll
+D:\GB\Lecture2\Example010_IntroArray\obj\Debug\net6.0\refint\Example010_IntroArray.dll
+D:\GB\Lecture2\Example010_IntroArray\obj\Debug\net6.0\Example010_IntroArray.pdb
+D:\GB\Lecture2\Example010_IntroArray\obj\Debug\net6.0\Example010_IntroArray.genruntimeconfig.cache
+D:\GB\Lecture2\Example010_IntroArray\obj\Debug\net6.0\ref\Example010_IntroArray.dll
