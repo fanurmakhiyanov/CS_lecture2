@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GB\\Lecture2\\Example010_IntroArray\\Example010_IntroArray.csproj": {}
+    "C:\\Users\\user\\Desktop\\МОЁ\\GB\\CS_lecture2\\Example010_IntroArray\\Example010_IntroArray.csproj": {}
   },
   "projects": {
-    "D:\\GB\\Lecture2\\Example010_IntroArray\\Example010_IntroArray.csproj": {
+    "C:\\Users\\user\\Desktop\\МОЁ\\GB\\CS_lecture2\\Example010_IntroArray\\Example010_IntroArray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GB\\Lecture2\\Example010_IntroArray\\Example010_IntroArray.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\МОЁ\\GB\\CS_lecture2\\Example010_IntroArray\\Example010_IntroArray.csproj",
         "projectName": "Example010_IntroArray",
-        "projectPath": "D:\\GB\\Lecture2\\Example010_IntroArray\\Example010_IntroArray.csproj",
-        "packagesPath": "C:\\Users\\makhi\\.nuget\\packages\\",
-        "outputPath": "D:\\GB\\Lecture2\\Example010_IntroArray\\obj\\",
+        "projectPath": "C:\\Users\\user\\Desktop\\МОЁ\\GB\\CS_lecture2\\Example010_IntroArray\\Example010_IntroArray.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\МОЁ\\GB\\CS_lecture2\\Example010_IntroArray\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\makhi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -47,12 +47,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.4, 6.0.4]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.4, 6.0.4]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.4, 6.0.4]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.4, 6.0.4]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100-preview.4.22252.9\\RuntimeIdentifierGraph.json"
         }
       }
     }

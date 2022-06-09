@@ -5,8 +5,8 @@
     if (arg3 > result) result = arg3;
     return result;
 }
-//              0    1   2   3   4   5   6   7   8
-int[] array = { 21, 32, 43, 24, 35, 16, 17, 88, 89 };
+//               0    1   2   3   4   5   6   7   8
+int[] array = { 21, 322, 43, 24, 35, 16, 17, 88, 90 };
 
 int result = Max(
     Max(array[0], array[1], array[2]),

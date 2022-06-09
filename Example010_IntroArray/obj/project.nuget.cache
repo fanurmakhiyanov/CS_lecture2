@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "nzapR1mYMtB9dxQa111SI9nEOMRFfE6CNXtWysSsA6VbwAQu3/mXT/w71sZwD+1N9Fj3WSfytT20lUq6RhTqXw==",
+  "dgSpecHash": "39i4sMcG8/d5USRUZegZ7M9Hp1jSOEjzM3qoHK1gAgMz+n3rt29ihKuwK/GXn5h/H+MkpAXrA+imROdnY4R5fA==",
   "success": true,
-  "projectFilePath": "D:\\GB\\Lecture2\\Example010_IntroArray\\Example010_IntroArray.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\user\\Desktop\\МОЁ\\GB\\CS_lecture2\\Example010_IntroArray\\Example010_IntroArray.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.4\\microsoft.netcore.app.ref.6.0.4.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.4\\microsoft.windowsdesktop.app.ref.6.0.4.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.4\\microsoft.aspnetcore.app.ref.6.0.4.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.4\\microsoft.netcore.app.host.win-x64.6.0.4.nupkg.sha512"
+  ],
   "logs": []
 }
